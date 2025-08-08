@@ -8,21 +8,6 @@
 
 <p align="center">A modern, interactive portfolio showcasing my journey as a Data Analyst.</p>
 
-## ✨ Features
-
-### 🎯 Core Sections
-- **About Me** - Professional background and expertise
-- **Projects** - Showcase of data analysis and ML projects
-- **Skills** - Technical proficiencies and tools
-- **Contact** - Professional contact information
-
-### 🎨 Design Elements
-- Modern, dark theme with dynamic animations
-- Responsive layout for all devices
-- Interactive project cards
-- Categorized skills display
-- Professional contact section
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -85,9 +70,3 @@ portfolio/
 
 ## 🌐 Live Demo
 [Portfolio Website](#) _(Coming Soon)_
-
----
-
-<div align="center">
-  <p>Built with ❤️ using <a href="https://vitejs.dev/">Vite</a> and <a href="https://react.dev/">React</a></p>
-</div>
