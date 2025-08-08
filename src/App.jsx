@@ -57,10 +57,7 @@ function App() {
             <i className="contact-icon">✉️</i>
             <span>{contact.email}</span>
           </a>
-          <a href={`tel:${contact.phone}`} className="contact-card">
-            <i className="contact-icon">📱</i>
-            <span>{contact.phone}</span>
-          </a>
+          
           <a href={contact.linkedIn} target="_blank" rel="noopener noreferrer" className="contact-card">
             <i className="contact-icon">💼</i>
             <span>LinkedIn Profile</span>
