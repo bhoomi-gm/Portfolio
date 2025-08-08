@@ -7,11 +7,6 @@
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
   
-  [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhoomi-gm)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-g-m-b598052a8/)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi-gm&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
   <p align="center">🎯 <i>Transforming Data into Insights | Machine Learning Enthusiast | Data Analyst</i></p>
   
   <hr width="50%" style="height: 5px;">
@@ -63,19 +58,6 @@
 
 </div>
 
-## 🎯 Professional Focus
-
-<div align="center">
-
-| Data Analysis | Machine Learning | Visualization |
-|:------------:|:---------------:|:-------------:|
-| SQL | Random Forest | Tableau |
-| Python | Neural Networks | Seaborn |
-| Pandas | Scikit-learn | Matplotlib |
-| NumPy | Feature Engineering | Data Storytelling |
-
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -85,12 +67,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-g-m-b598052a8/)
 
 </div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=bhoomi-gm&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/bhoomi-gm?style=social)](https://github.com/bhoomi-gm)
 
 </div>
